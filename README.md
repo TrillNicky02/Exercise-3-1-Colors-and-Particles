@@ -25,6 +25,7 @@ Created using [Godot 4.1.1](https://godotengine.org/download)
  * [Open Color open source color scheme](https://yeun.github.io/open-color/)
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
+ * Directions and videos from professor Jason Francis.
  
 
 ## Future Development
